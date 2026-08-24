@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// (int, int) as defing the type means i want to return two value integer type
+
 func addition(num1 int, num2 int) (int int) {
 	return num1 + num2
 }
